@@ -1,2 +1,4 @@
- # Define a local variable called 'greeting',
- # give it the value of the string "Hello World"
+"Hello World"
+learn test
+"Good Morning Earth"
+learn test
